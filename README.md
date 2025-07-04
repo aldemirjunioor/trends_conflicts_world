@@ -1,4 +1,4 @@
-# App Trends Conflits Worlds
+# App Trends Conflits World
 
 # Link do Vídeo do App:
 https://www.youtube.com/watch?v=ceI13MPSfWI
