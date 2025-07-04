@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716811547408",
+    "project_id": "app-acled-firebase",
+    "storage_bucket": "app-acled-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716811547408:android:4b375576e3dc144cbc2b95",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShwkn4ihO766bYZIGPDkFdGfa_cbsuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
