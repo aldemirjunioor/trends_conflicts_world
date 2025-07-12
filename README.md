@@ -12,7 +12,7 @@ O app oferece funcionalidades como login com Firebase, filtro por país, favorit
 - Favoritar eventos (Watchlist)
 - Adicionar Comentários pessoais
 - Mapa com localização do evento
-- 
+
 ## Tecnologias Utilizadas 🛠️
 
 - Flutter + GetX (MVC)
@@ -20,7 +20,7 @@ O app oferece funcionalidades como login com Firebase, filtro por país, favorit
 - Cloud Firestore
 - Google Maps Flutter
 - API ACLED
-- 
+
 ## Link do Vídeo do App 🎥
 https://www.youtube.com/watch?v=ceI13MPSfWI
 
